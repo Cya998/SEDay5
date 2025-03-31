@@ -34,8 +34,16 @@ Allowing users to rate content clarity and request further explanations through 
 
 4.What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
+Using simple language and avoiding technical terms without explanation.
 
-Why is it important to use plain language instead of technical jargon in your writing?
+Breaking content into small chunks and using  bullet points, and subheadings to improve readability.
+
+Using numbered steps and clear instructions instead of dense paragraphs to provide guidance.
+
+Defining technical terms within the text or providing a link to a glossary for easy reference.
+
+
+5.Why is it important to use plain language instead of technical jargon in your writing?
 Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 How can using examples and visuals help in explaining complex concepts more clearly?
 What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
