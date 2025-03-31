@@ -56,10 +56,18 @@ It allows users to apply the knowledge immediately without needing additional ex
 
 6.Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 
+Shorter, common words make sentences easier to read and act on.
+
 
 7.How can using examples and visuals help in explaining complex concepts more clearly?
 
+Helps provide context by making abstract ideas more relatable via real-world scenarios
 
+It improve retention by making information easier to remember as visuals engage multiple senses.
+
+Images and diagrams break down information into digestible pieces.
+
+People process visuals faster than text,it enhances engagement improving readability and understanding.
 
 
 8.What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
