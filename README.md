@@ -22,7 +22,19 @@ Using API documentation with code snippets for eperts  while general users might
 
 
 3.How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+By conducting user surveys, interviews, or audience analysis to understand their level of expertise before creating content.
+
+Monitoring audience behavior such as time spent on different pages, comments, or frequently asked questions to adjust content accordingly.
+
+Providing additional information revealed based on user interaction like a "Learn More" button.
+
+Allowing users to rate content clarity and request further explanations through comments, support tickets, or community forums.
+
+
+4.What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+
 Why is it important to use plain language instead of technical jargon in your writing?
 Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 How can using examples and visuals help in explaining complex concepts more clearly?
