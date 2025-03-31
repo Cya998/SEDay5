@@ -55,8 +55,23 @@ It allows users to apply the knowledge immediately without needing additional ex
 
 
 6.Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
-How can using examples and visuals help in explaining complex concepts more clearly?
+
+
+7.How can using examples and visuals help in explaining complex concepts more clearly?
+
+
+
+
 8.What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+Diagrams are best for explaining system architectures, workflows, and processes.
+
+Charts and Graphs are best for showing trends, comparisons or statistical data.
+
+Screenshots andGIFs are ideal for software tutorials, step-by-step guides and UI explanations.
+
+Infographics are best used to summarize key concepts in a visually appealing way, especially for marketing or educational content.
+
 
 
 9.How do headings and subheadings improve the readability and organization of technical documents?
