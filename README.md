@@ -56,7 +56,13 @@ It allows users to apply the knowledge immediately without needing additional ex
 
 6.Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 
-Shorter, common words make sentences easier to read and act on.
+Shorter, common words make sentences easier to read and act on for example using verify instead of authenticate.
+
+Enables readers to  immediately grasp what they need to do without pausing to interpret the jargon eg using use instead of utilize.
+
+Using common words makes communication with stakeholders and investors easier for example using combine instead of aggregate in a report.
+
+Plain language makes legal and policy documents easier to understand and follow eg using payment instead of remuneration.
 
 
 7.How can using examples and visuals help in explaining complex concepts more clearly?
